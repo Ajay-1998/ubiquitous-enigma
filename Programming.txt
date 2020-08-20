@@ -6,3 +6,10 @@ Following below are different paradigms
 . procedural
 .object oriented
 .object based
+
+
+
+object oriented programming languages are
+
+.java
+.c#
