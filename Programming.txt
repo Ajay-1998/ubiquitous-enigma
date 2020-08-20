@@ -1,1 +1,8 @@
 We have different programming paradigms.
+
+
+
+Following below are different paradigms
+. procedural
+.object oriented
+.object based
