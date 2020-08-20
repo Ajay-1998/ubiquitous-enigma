@@ -9,5 +9,15 @@ Following below are different paradigms
 
 
 
+
+object oriented programming languages are
+
+.java
+.c#
+
+
+Done my changes
+
 thank you
 final copy
+
